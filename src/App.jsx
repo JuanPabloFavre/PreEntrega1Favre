@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import CartWidget from './components/cartWidget/CartWidget'
 import NavBar from './components/navBar/NavBar'
 import ItemListContainer from './pages/itemListContainer/ItemListContainer'
 
